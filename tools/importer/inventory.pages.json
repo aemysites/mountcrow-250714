@@ -1,0 +1,470 @@
+{
+  "templates": [
+    {
+      "name": "'News Portal'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/it-services.html",
+          "uuid": "1330acf0b021b848f7f3b81bcaf1a8a6a7455ec7"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/flughafenlieferungen.html",
+          "uuid": "20bd965f6ab0cbb031597b10248a9b1a6f130fda"
+        },
+        {
+          "url": "https://www.fraport.com/de/investoren/corporate-governance.html",
+          "uuid": "1de2efe9dbf83af1f0361cc8b3bff8143fc27f70"
+        },
+        {
+          "url": "https://www.fraport.com/de/investoren/creditor-relations.html",
+          "uuid": "0b9f028c1c247d808833606fc6bfaadbec77605e"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service.html",
+          "uuid": "e50cd47dc54feca15c07ae3e2d57a8a6a0813621"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb.html",
+          "uuid": "8e3c769243a94d74a86705a455d74cc85ccb9d8a"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/flughafenfeuerwehr.html",
+          "uuid": "9075e0ddd151bd1a0b0046ac95b0378f8ab71b17"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/real-estate.html",
+          "uuid": "dfad6a3c79e01a7e597ccc9440e43e529ce59ec3"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder.html",
+          "uuid": "0cdda7f6edcee840b657f92a4ad9670cb514283d"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/it-services/agb-it-services.html",
+          "uuid": "4f856cf01000c33cd903d78c01c43813877a354d"
+        },
+        {
+          "url": "https://www.fraport.com/de/investoren/ansprechpartner.html",
+          "uuid": "425241e990e568bb78a5399b1ec978b419a0fa69"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/flughafenentgelte.html",
+          "uuid": "593dad84f3c4234f55bcfa0a83da567f1e98a561"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/medical-center/corona-testmoeglichkeiten.html",
+          "uuid": "bcffd60d5313773807a4381b1160ad3005e0fd78"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/geschaeftspartner/richtlinien-und-zahlungsbedingungen.html",
+          "uuid": "0cd9ec8737d2b262b0840889e2570a944aa74369"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/geschaeftspartner/elektronischer-rechnungsversand.html",
+          "uuid": "4e985a6d5661c2491c53d96931c08ef9bf2950f3"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/ground-services-equipment.html",
+          "uuid": "c719a1b34de67e8153b19b20bcab5274b7d643d6"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/flughafenfeuerwehr/feuerwehr-training-center/anfrageformular-lehrgaenge-ftc.html",
+          "uuid": "851df3444b6a14cd40949f9192be0e801fe90707"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/flughafenentgelte/flughafenentgelte.html",
+          "uuid": "bbff3e7c109a2ce7933beda379c3a6f8430dc0ce"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/medical-center/terminbuchung.html",
+          "uuid": "2c6ffae39bcda4b4e7a42edf8f1d29e33b0e41c5"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/medical-center/anmeldung-spezialsprechstunde.html",
+          "uuid": "aba6239078f07da0df9707270eb5ab9b13520d5c"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/geschaeftspartner/gewerbliche-taetigkeit-und-gestattungen/gewerbliche-taetigkeiten-p-huth.html",
+          "uuid": "db3255879325155b5b16cc81676d34df2ae06657"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/geschaeftspartner/gewerbliche-taetigkeit-und-gestattungen/gewerbliche-taetigkeiten-i-schaefer.html",
+          "uuid": "da5d129ef6c5a0238e8f054713192dcd4d71da8d"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/geschaeftspartner/gewerbliche-taetigkeit-und-gestattungen/gewerbliche-taetigkeiten-a-schoenberger.html",
+          "uuid": "f1c28babdb476e4c6ee401ded2b11a175d74a5f3"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/retailing---advertising.html",
+          "uuid": "eafa1b38bdda96860e88674739cc6778ae605433"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/geschaeftspartner.html",
+          "uuid": "389e54a003670a807228ba8539ff1fbc3d3a018a"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/coworking.html",
+          "uuid": "8733ef82443d55cab08e5f43ecc47cc0c0b2f5f2"
+        }
+      ]
+    },
+    {
+      "name": "'Corporate Multipurpose Template'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/international-activities.html",
+          "uuid": "65acd7d89c07b984a742a1b10a4982458bfaaebd"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/medical-center.html",
+          "uuid": "f82f7b447487236f821d3dca8fe8a147dc1827ce"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/bau.html",
+          "uuid": "ee5f298838117987c70be4e9b893e6146180f251"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/geschaeftspartner/einkauf-und-bauvergabe.html",
+          "uuid": "412c8bcaa92122360904e093f6747184aa2ac643"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/arbeitsmedizin.html",
+          "uuid": "ff774fe12a457264e564be9a09a3ff0f5fa6978a"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/geschaeftspartner/Bekanntmachungen.html",
+          "uuid": "4dbd4f46f03cf6ed9f73b008b34ad442034884f8"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/fahrerausbildung.html",
+          "uuid": "19b17861dc3852fa709dbbf76ee322dd838ab292"
+        },
+        {
+          "url": "https://www.fraport.com/de.html",
+          "uuid": "94fc85c382e53d30cd9d3867ae55d1daf1b77ec2"
+        },
+        {
+          "url": "https://www.fraport.com/de/investoren.html",
+          "uuid": "a359d8268ddf3c9078247a93116c657bdc28b2e7"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/unternehmenssicherheit.html",
+          "uuid": "bf13b527d4bb07765834a9452c6dd12506587e65"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/flug--und-terminalbetrieb.html",
+          "uuid": "0afb58335910eaf0c32e63e7aaac32dda184e54d"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/flug--und-terminalbetrieb/betriebsrichtung.html",
+          "uuid": "d65254ba06cd24ded17d69ff659add8160d3ad29"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise.html",
+          "uuid": "9f57be32a80ced4450a0a9cbd46cae050775aaad"
+        },
+        {
+          "url": "https://www.fraport.com//content/fraport-company/en/business-areas/services/purchasing-and-contracting/licensing-agreements.html",
+          "uuid": "b8abc809db1ff37a4586fba8d26b9a6a7a44021f"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/geschaeftspartner/gewerbliche-taetigkeit-und-gestattungen.html",
+          "uuid": "3e9e38a73f5e006192e0bc23254fdddc8c82d480"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/parken---mobilitaet.html",
+          "uuid": "310b4bfddab2b0b4cb1be41c958f9287c8c70424"
+        }
+      ]
+    },
+    {
+      "name": "'Corporate Dashboard'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/faq.html",
+          "uuid": "c125184f762b702b9c07970e257ee06f464781f4"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/ausweisbeantragung0.html",
+          "uuid": "d20fb0eaefc5c65a5448a9ad6a84fc0649a6b7e8"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/luftsicherheitsschulung.html",
+          "uuid": "0ba8628d71cf8c05e1adfc8e3e7c530533314386"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/archiv.html",
+          "uuid": "52a5dff0dce6b1150f45670f2f25d10d84528284"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/flughafenausweise-t3.html",
+          "uuid": "ca459a4627d620a73b0114d34bab4f391223528f"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/allgemeine-informationen.html",
+          "uuid": "99b6e38038ffc89e1484637db9eaa9debe215c51"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/digitalisierungsmassnahmen-im-servicecenter-flughafenausweise/ausweis-services-auf-einen-blick.html",
+          "uuid": "8ee6916e23496eda798503afa4f551d954539646"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/digitalisierungsmassnahmen-im-servicecenter-flughafenausweise/besucherausweis-auf-knopfdruck.html",
+          "uuid": "eabfa64b02cd1b77709ddde3dcef3328177a98ac"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/ausweisbeantragung0/ausweisantraege/online-antrag-fuer-eine-zuverlaessigkeitsueberpruefung-teil1.html",
+          "uuid": "21a8cf98afcb9f1cd394874c1bf0489487bb5f5b"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/ausweisbeantragung0/ausweisantraege/online-antrag-fuer-eine-zuverlaessigkeitsueberpruefung-teil2.html",
+          "uuid": "391c1e35db4486be049f93aad0a21a9b611f22fe"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/voraussetzungen.html",
+          "uuid": "0ca7e7647798b491a761500b9bcc459dc819a224"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/ansprechpartner.html",
+          "uuid": "37fbe6cc1a25fb3d27d0da3a586437d615618f22"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/digitalisierungsmassnahmen-im-servicecenter-flughafenausweise.html",
+          "uuid": "70d4734cb21480f663f366e591ed47a9191dd509"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/ausweisbeantragung0/ausweisantraege/online-personenausweisantrag-teil-1.html",
+          "uuid": "96822e3683fbd1819f18b14b8d3b363e9035ec7f"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/ausweisbeantragung0/ausweisantraege/beiblatt-fuer-eine-zuverlaessigkeitsueberpruefung.html",
+          "uuid": "c6b7de6e8387a21c8641b02e554d6972c1e8a870"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/ausweisbeantragung0/ausweisantraege/online-personenausweisantrag-teil--2-2-.html",
+          "uuid": "3a312396925013054167310db4ce5cdb8cba9696"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/voraussetzungen/antrag-auf-registrierung-einer-firma.html",
+          "uuid": "4fb5f3a543afb3090bf5bfd07b12f5e802989088"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/ausweisbeantragung0/ausweisantraege/online-antrag--auf-erteilung-eines-fahrzeugausweises.html",
+          "uuid": "92f1a0389be26a5c881b937bef376e6d78729608"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/preise-fuer-flughafenausweise.html",
+          "uuid": "2613558ec8a163ef87046c99508dda41f646b286"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/flughafenausweise/wichtige-hinweise.html",
+          "uuid": "1a977bf5d3ab95dcd15a2ae5064370d3088d0b51"
+        }
+      ]
+    },
+    {
+      "name": "'Multi-purpose Business Template'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/flughafenfeuerwehr/technik.html",
+          "uuid": "1c47f1cdbfa179c87cbd45a7ff2c77b4b2483915"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/flughafenfeuerwehr/feuerwehr-training-center.html",
+          "uuid": "8687890c066585344316de877ce76fe3c9314b06"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/flughafenfeuerwehr/flugzeugbergung.html",
+          "uuid": "f2b56a4b34073d38c1ea56357964938cf5e71a27"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/flughafenfeuerwehr/vorbeugender-brandschutz.html",
+          "uuid": "e80dbe071e325eed19f6df358dc0c1858f9a88d0"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/flughafenfeuerwehr/abwehrender-brandschutz.html",
+          "uuid": "0d3ea6593594ec890c20a627c57f7c9fc67dd105"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/real-estate/energiemanagement.html",
+          "uuid": "8b14fca372c4d21df38c4ba4d79f418bd34db66f"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/real-estate/vermietung/schliessanlagenverwaltung.html",
+          "uuid": "130094426495f36673ae46182b56ccb45ea6e5c1"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/real-estate/real-estate-consulting.html",
+          "uuid": "3fd1fa76342d7d8ecd44e1342b0efea3192cf8c1"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/real-estate/ueber-uns.html",
+          "uuid": "0400a279a1eef098d13b1b7872a1639c1dd5e018"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/real-estate/unser-track-record.html",
+          "uuid": "fcccac94664bbb51d546e164dcb694edb2875603"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/real-estate/vermietung.html",
+          "uuid": "f43ccb3ae076394b58cd39e0a9dd7148287c23cf"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/real-estate/asset---property-management.html",
+          "uuid": "638944fd9be51fd65642c0376e60e1b981c0ab29"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/real-estate/projektentwicklung---investment.html",
+          "uuid": "7a316342b8a233c9dee26e349f8a329da7822930"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/real-estate/baulandentwicklung---konversion.html",
+          "uuid": "6e5b2d46e0c641d7a051396202fc419ae70d0927"
+        }
+      ]
+    },
+    {
+      "name": "'Business Showcase'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/coworking/inno-hub.html",
+          "uuid": "a4b72c75e73ee88ceaf76b1c63d08a8d580dca68"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/coworking/fraport-conference-center.html",
+          "uuid": "40bc7744cd53c16e01cd7284f0523c792d0b072a"
+        }
+      ]
+    },
+    {
+      "name": "Portfolio Showcase",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/international-activities/flughaefen-fortaleza-und-porto-alegre.html",
+          "uuid": "b300c0073865ce59a8d6deea270846f0d361df01"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/international-activities/orat---operational-readiness-and-airport-transfer.html",
+          "uuid": "04839265945ab314030af0eb288ab18623dc1bce"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/international-activities/weitere-consulting-dienstleistungen.html",
+          "uuid": "211c27720da08a1387a7ca3dff8783ccfb1f9aa9"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/international-activities/historie-der-flughafenakquisitionen.html",
+          "uuid": "b556155267a5efa29b2453ae5cf8687cfde2bd0b"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/international-activities/flughafen-management-vertraege.html",
+          "uuid": "76f038bc33963c6a487eae44cac76098dcd885cd"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/international-activities/news.html",
+          "uuid": "5d829f89c32dd05c634c7c4013f1ac9e9c166228"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/international-activities/usa-flughaefen.html",
+          "uuid": "0e6d08aaaa610cec5ee29755e0a25364acfd5e36"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/international-activities/14-griechische-rregionalflughaefen.html",
+          "uuid": "16eb1c2fbb8f41dde366be74738fe879a0b4ba6b"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/international-activities/flughafen-delhi.html",
+          "uuid": "3a2a15d6e19b8833b817840cdff39dc7d549dd2c"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/international-activities/tradeport-hong-kong.html",
+          "uuid": "1893951c7634336f09b38a65892fcb8c12d817ad"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/international-activities/flughaefen-burgas-und-varna.html",
+          "uuid": "5e7f4176148ae22464afeef99cd34a8bf451db7e"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/international-activities/flughafen-antalya.html",
+          "uuid": "e0bf40675ed00eac613ad448b734f54b4bc64e03"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/international-activities/flughafen-lima.html",
+          "uuid": "c3c15860b86a45ebec71d76a9c0bf6cb1a1c4a34"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/international-activities/flughafen-ljubljana.html",
+          "uuid": "a28db7c3b69c78f3e587a4f484901c52abf92059"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/retailing---advertising/flughafenwerbung.html",
+          "uuid": "3bc2d632a66ab95541fcf774e14e29ab805468f9"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/retailing---advertising/airport-retailing.html",
+          "uuid": "ec3a664f7f615d40ff21b180b59fc1b743f5bdb1"
+        }
+      ]
+    },
+    {
+      "name": "'Event Details Page'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/betrieb/flug--und-terminalbetrieb/bahnsperrungen.html",
+          "uuid": "0024e40c904f7ebdc2e2420a806dfc687ac4be5f"
+        }
+      ]
+    },
+    {
+      "name": "'Event Listing Page'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/service/fahrerausbildung/recurrent-training.html",
+          "uuid": "378c8403e737c7b33f91a325c3385c99aee814b4"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/bau/terminal-3.html",
+          "uuid": "ff2896eb83e3c4521e62b2436191d5f0cc9af499"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/bau/hessens-tor-zur-welt.html",
+          "uuid": "c42156cadedf35bef221fa3e793987ff70b1e972"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/bau/flughafenausbau.html",
+          "uuid": "aca0370e7a0919c612876bbb1bc3c663bbc149e8"
+        },
+        {
+          "url": "https://www.fraport.com/de/geschaeftsfelder/bau/wirtschaftsfaktor-flughafen.html",
+          "uuid": "8d9a90550cd21b21ab077bda00a05206e5b55a4d"
+        }
+      ]
+    }
+  ]
+}
